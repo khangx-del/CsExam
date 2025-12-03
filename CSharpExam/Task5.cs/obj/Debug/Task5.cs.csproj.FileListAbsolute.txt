@@ -1,0 +1,7 @@
+C:\Users\admin1\source\repos\Task5.cs\Task5.cs\bin\Debug\Task5.cs.exe.config
+C:\Users\admin1\source\repos\Task5.cs\Task5.cs\bin\Debug\Task5.cs.exe
+C:\Users\admin1\source\repos\Task5.cs\Task5.cs\bin\Debug\Task5.cs.pdb
+C:\Users\admin1\source\repos\Task5.cs\Task5.cs\obj\Debug\Task5.cs.csproj.AssemblyReference.cache
+C:\Users\admin1\source\repos\Task5.cs\Task5.cs\obj\Debug\Task5.cs.csproj.CoreCompileInputs.cache
+C:\Users\admin1\source\repos\Task5.cs\Task5.cs\obj\Debug\Task5.cs.exe
+C:\Users\admin1\source\repos\Task5.cs\Task5.cs\obj\Debug\Task5.cs.pdb

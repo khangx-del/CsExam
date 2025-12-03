@@ -1,0 +1,7 @@
+C:\Users\admin1\source\repos\Task4.cs\Task4.cs\obj\Debug\Task4.cs.csproj.AssemblyReference.cache
+C:\Users\admin1\source\repos\Task4.cs\Task4.cs\obj\Debug\Task4.cs.csproj.CoreCompileInputs.cache
+C:\Users\admin1\source\repos\Task4.cs\Task4.cs\bin\Debug\Task4.cs.exe.config
+C:\Users\admin1\source\repos\Task4.cs\Task4.cs\bin\Debug\Task4.cs.exe
+C:\Users\admin1\source\repos\Task4.cs\Task4.cs\bin\Debug\Task4.cs.pdb
+C:\Users\admin1\source\repos\Task4.cs\Task4.cs\obj\Debug\Task4.cs.exe
+C:\Users\admin1\source\repos\Task4.cs\Task4.cs\obj\Debug\Task4.cs.pdb
